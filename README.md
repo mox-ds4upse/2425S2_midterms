@@ -26,6 +26,7 @@ April 2025
 2. Load the data
 - load the data from the `data_path` variable.
 - The FIES data are too large for GitHub. You may download them instead [here](https://drive.google.com/drive/u/3/folders/17DSHWyN-3D-RRbbCWTwBbjVCgV8t1SPn).
+- DO NOT CHANGE THE FILE NAME.
 - load all the FIES files into separate dataframes.
 - for the geodata files, use the shape files from `https://data.humdata.org` on your local machine, given that the files are too large.
 
