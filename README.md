@@ -12,13 +12,11 @@ April 2025
 ## Submission Instructions
 - Submit your exam as a **Jupyter notebook** named `midterm_exam.ipynb`.
 - Place your notebook in the root directory of this repo (same folder as this README).
-- **Fork** this repository and submit a **pull request** titled `LASTNAME_midterm_exam` to the `main` branch.
 - Your pull request must include:
   - A working `midterm_exam.ipynb`
   - A short note in the pull request message linking to your GitHub profile (e.g., `https://github.com/yourusername`)
 - Make sure to **push your changes** before the deadline.
-- for more information, refer to [submission_guide.md](submission_guide.md).
-
+  
 ## Exam Instructions
 1. Set a global file path
 - define a global file path variable `file_path` that points to the directory where you will save your files.
